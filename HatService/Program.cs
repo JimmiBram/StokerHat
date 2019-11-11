@@ -7,9 +7,9 @@ namespace HatService
         static void Main(string[] args)
         {
             Console.WriteLine("HatService starting..");
-            HatService _service = new HatService();
+            HatServiceInstance _service = new HatServiceInstance();
             Console.WriteLine("Service ready");
-            while(_service.isRunning){
+            while(_service.IsRunning){
                 //Looping forever, or at least for a good while
             }
             
