@@ -1,2 +1,2 @@
 # StokerHat
-Camera based automation system for old stoker pill ovens
+Camera based automation system for old stoker pellet cove systems
