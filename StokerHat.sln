@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StokerHat", "StokerHat.csproj", "{1AF69E0A-2A4E-422B-9687-55981B83A884}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HatService", "HatService\HatService.csproj", "{10B3720A-B114-4949-8E8E-63B7C9177AF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AF69E0A-2A4E-422B-9687-55981B83A884}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{1AF69E0A-2A4E-422B-9687-55981B83A884}.Debug|anycpu.Build.0 = Debug|anycpu
+		{1AF69E0A-2A4E-422B-9687-55981B83A884}.Release|anycpu.ActiveCfg = Release|anycpu
+		{1AF69E0A-2A4E-422B-9687-55981B83A884}.Release|anycpu.Build.0 = Release|anycpu
+		{10B3720A-B114-4949-8E8E-63B7C9177AF1}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{10B3720A-B114-4949-8E8E-63B7C9177AF1}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{10B3720A-B114-4949-8E8E-63B7C9177AF1}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{10B3720A-B114-4949-8E8E-63B7C9177AF1}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
